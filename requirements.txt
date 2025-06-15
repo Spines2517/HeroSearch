@@ -1,0 +1,9 @@
+discord
+discord.ext
+gspread
+oauth2client.service_account 
+discord.ui
+asyncio
+difflib
+pypinyin
+os
